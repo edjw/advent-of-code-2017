@@ -1,9 +1,10 @@
 # Advent of Code 2017
 
-My work on the [Advent of Code 2017](https://adventofcode.com/2017)
+My work on the [Advent of Code 2017](https://adventofcode.com/2017). I don't think code quality will be all that great!
 
 ## Day 1
 [Part One](https://github.com/edjw/advent-of-code-2017/blob/master/one_one.py)
+[Part Two](https://github.com/edjw/advent-of-code-2017/blob/master/one_two.py)
 
 ```
 ...Review a sequence of digits (your puzzle input) and find the sum of all digits that match the next digit in the list. The list is circular, so the digit after the last digit is the first digit in the list.
