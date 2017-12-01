@@ -1,7 +1,7 @@
 from aocinput import aocinput
 
-inpt = aocinput(1)
-# inpt = '91212129'
+# inpt = aocinput(1)
+inpt = '91212129'
 
 # converts into a list of tuples where first element in tuple is the index
 # and second element is main data
