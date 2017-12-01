@@ -17,7 +17,7 @@ answer = 0
 
 for digit in inpt:
     current_index = digit[0]
-    # print(digit[0])
+
     if current_index + half_length < length:
         next_index = current_index + half_length
         if inpt[current_index][1] == inpt[next_index][1]:
