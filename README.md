@@ -71,22 +71,22 @@ What is the checksum for the spreadsheet in your puzzle input?
 <!-- ](https://github.com/edjw/advent-of-code-2017/blob/master/two_two.py) -->
 
 ```
-Now, instead of considering the next digit, it wants you to consider the digit halfway around the circular list.
+It sounds like the goal is to find the only two numbers in each row where one evenly divides the other - that is, where the result of the division operation is a whole number.
 
-That is, if your list contains 10 items, only include a digit in your sum if the digit 10/2 = 5 steps forward matches it.
+They would like you to find those numbers on each line, divide them, and add up each line's result.
 
-Fortunately, your list has an even number of elements.
+For example, given the following spreadsheet:
 
-For example:
+5 9 2 8
+9 4 7 3
+3 8 6 5
 
-1212 produces 6: the list contains 4 items, and all four digits match the digit 2 items ahead.
+    In the first row, the only two numbers that evenly divide are 8 and 2; the result of this division is 4.
+    In the second row, the two numbers are 9 and 3; the result is 3.
+    In the third row, the result is 2.
 
-1221 produces 0, because every comparison is between a 1 and a 2.
+In this example, the sum of the results would be 4 + 3 + 2 = 9.
 
-123425 produces 4, because both 2s match each other, but no other digit has a match.
-
-123123 produces 12.
-
-12131415 produces 4.
+What is the sum of each row's result in your puzzle input?
 
 ```
