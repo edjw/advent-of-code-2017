@@ -4,6 +4,7 @@ My work on the [Advent of Code 2017](https://adventofcode.com/2017). I don't thi
 
 ## Day 1
 [Part One](https://github.com/edjw/advent-of-code-2017/blob/master/one_one.py)
+
 [Part Two](https://github.com/edjw/advent-of-code-2017/blob/master/one_two.py)
 
 ```
