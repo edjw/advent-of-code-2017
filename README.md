@@ -46,7 +46,9 @@ For example:
 [Part One](https://github.com/edjw/advent-of-code-2017/blob/master/two_one.py)
 
 ```
-The spreadsheet consists of rows of apparently-random numbers. To make sure the recovery process is on the right track, they need you to calculate the spreadsheet's checksum. For each row, determine the difference between the largest value and the smallest value; the checksum is the sum of all of these differences.
+The spreadsheet consists of rows of apparently-random numbers.
+To make sure the recovery process is on the right track, they need you to calculate the spreadsheet's checksum.
+For each row, determine the difference between the largest value and the smallest value; the checksum is the sum of all of these differences.
 
 For example, given the following spreadsheet:
 
@@ -69,7 +71,11 @@ What is the checksum for the spreadsheet in your puzzle input?
 <!-- ](https://github.com/edjw/advent-of-code-2017/blob/master/two_two.py) -->
 
 ```
-Now, instead of considering the next digit, it wants you to consider the digit halfway around the circular list. That is, if your list contains 10 items, only include a digit in your sum if the digit 10/2 = 5 steps forward matches it. Fortunately, your list has an even number of elements.
+Now, instead of considering the next digit, it wants you to consider the digit halfway around the circular list.
+
+That is, if your list contains 10 items, only include a digit in your sum if the digit 10/2 = 5 steps forward matches it.
+
+Fortunately, your list has an even number of elements.
 
 For example:
 
