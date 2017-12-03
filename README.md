@@ -116,3 +116,5 @@ Data from square 1024 must be carried 31 steps.
 
 How many steps are required to carry the data from the square identified in your puzzle input all the way to the access port? The square is 347991.
 ```
+
+[Part Two 'solution'](https://github.com/edjw/advent-of-code-2017/blob/master/03_two.py)
