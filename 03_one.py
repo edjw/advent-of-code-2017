@@ -7,7 +7,7 @@ length_of_side = 0
 while bottom_right_number < target:
     row_column += 1
     previous_bottom_right_number = bottom_right_number
-    bottom_right_number = (row_column * 8) + previous_bottom_right_number
+    bottom_right_number = (row_column * 8) + previous_bottom_right_number # this is the key bit
     length_of_side = row_column * 2
 
 
