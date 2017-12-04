@@ -25,6 +25,6 @@ with open('input/4.txt', 'r') as f:
                 number_of_passphrases_containing_anagrams += 1 # count that there's a matched word
                 break # break so it only counts the first match of each line
 
-number_of_passphrases_not_containg_anagrams = number_of_passphrases - number_of_passphrases_containing_anagrams
+number_of_passphrases_not_containing_anagrams = number_of_passphrases - number_of_passphrases_containing_anagrams
 
-print("The number of valid passphrases (not containing anagrams) is {}.".format(number_of_passphrases_not_containg_anagrams))
+print("The number of valid passphrases (not containing anagrams) is {}.".format(number_of_passphrases_not_containing_anagrams))
