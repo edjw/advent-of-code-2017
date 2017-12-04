@@ -25,3 +25,5 @@ This ^ was hard!
 ## Day Four
 
 [Part One solution](https://github.com/edjw/advent-of-code-2017/blob/master/04_one.py)
+
+[Part Two solution](https://github.com/edjw/advent-of-code-2017/blob/master/04_two.py)
