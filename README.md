@@ -16,9 +16,7 @@ My work on the [Advent of Code 2017](https://adventofcode.com/2017). I don't thi
 
 ## [Day Three](https://adventofcode.com/2017/day/3)
 
-[Part One solution](https://github.com/edjw/advent-of-code-2017/blob/master/03_one.py)
-
-This ^ was hard!
+[Part One solution](https://github.com/edjw/advent-of-code-2017/blob/master/03_one.py) – This was hard!
 
 [Part Two 'solution'](https://github.com/edjw/advent-of-code-2017/blob/master/03_two.py)
 
