@@ -3,12 +3,9 @@ counter = 0
 
 with open('input/4.txt', 'r') as f:
     for line in f:
-        print(line)
         line = line.split() # makes a list out of the current string line, removes tabs and \n
-        print(line)
         line = list(line) # makes the line a list
         new_file.append(line) # appends the line list to a fresh list ## not sure why I need this tbh
-
 
 for line in new_file:
     if len(line) == len(set(line)):
