@@ -25,3 +25,7 @@ My work on the [Advent of Code 2017](https://adventofcode.com/2017). I don't thi
 [Part One solution](https://github.com/edjw/advent-of-code-2017/blob/master/04_one.py)
 
 [Part Two solution](https://github.com/edjw/advent-of-code-2017/blob/master/04_two.py)
+
+## [Day Five](https://adventofcode.com/2017/day/5)
+
+[Part One solution](https://github.com/edjw/advent-of-code-2017/blob/master/05_one.py)
