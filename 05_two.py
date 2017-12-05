@@ -1,7 +1,6 @@
 counter = 0
 
 with open('input/5.txt', 'r') as f:
-# with open('input/test.txt', 'r') as f:
 
     # list comprehension to make single list of all numbers in file
     all_numbers = [line.strip() for line in f]
